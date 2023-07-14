@@ -13,8 +13,8 @@
 - حمل الـ repository (هذا الفولدر)
 - افتح الملف في VS Code
 - افتح ملف main.py
-- قم بانشاء variable باسم my_name وقيمته تكون input من المستخدم
-- قم بانشاء variable باسم my_age وقيمته تكون input من المستخدم
+- قم بانشاء variable (متغير)  باسم my_name وقيمته تكون اسم المستخدم يدخلها بواسطة input
+- قم بانشاء variable (متغير) باسم my_age وقيمته تكون عمر المستخدم يدخلها بواسطة input
 - قم بطباعة الاتي: 
 
 <div>
@@ -24,14 +24,16 @@ My name is {flan} and I am {number} years old
 ```
 </div>
 
-- flan & number is my_name & my_age
+- استبدل flan بالمتغير الذي يحتوي على اسم المستخدم (my_name)
+- استبدل number بالمتغير الذي يحتوي على عمر المستخدم (my_age)
 
 
  <h1></h1>
 <p dir="rtl">
 <strong><a href="https://docs.google.com/document/d/1sA89c0LxxoBCoTHY9UvwdLftiFQ1g3EhAYEMoltLLTg/edit#">الجزء الثاني</a></strong></p>
  
-- قم بانشاء two variables باسم first_number & second_number 
+- قم بانشاء two variables (متغيرين)
+--  باسم first_number & second_number 
 - اطلب من المستخدم ادخال input باسم operation
 - باستخدام ال if condition تحقق من قيمة الـ operation اذا كانت:
 
