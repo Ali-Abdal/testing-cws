@@ -32,9 +32,10 @@ My name is {flan} and I am {number} years old
 <p dir="rtl">
 <strong><a href="https://docs.google.com/document/d/1sA89c0LxxoBCoTHY9UvwdLftiFQ1g3EhAYEMoltLLTg/edit#">الجزء الثاني</a></strong></p>
  
-- قم بانشاء two variables (متغيرين)
-  -  باسم first_number & second_numbe
-- اطلب من المستخدم ادخال input باسم operation
+- قم بانشاء two variables (متغيرين):
+  - الأول باسم first_number ليحتوي على الرقم الاول المدخل من المستخدم
+  - الثاني باسم secound_number ليحتوي على الرقم الثاني المدخل من المستخدم
+- اطلب من المستخدم ادخال input يحتوي على نوع العملية الحسابية (+-*/) وخزنه بمتغير باسم operation
 - باستخدام ال if condition تحقق من قيمة الـ operation اذا كانت:
 
    ```
@@ -45,7 +46,7 @@ My name is {flan} and I am {number} years old
    ```
    
 - اطبع الناتج بعد التحقق من الـ operation
-- قم بعمل validation على الـ input:
+- قم بعمل validation (عملية تحقق) على الـ input:
   - اذا كانت قيمة ال operation ليست احد العمليات الحسابية الاربعة (*,+,-,/) اطبع the operation is not valid
 
 </div>
