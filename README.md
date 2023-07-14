@@ -34,7 +34,7 @@ My name is {flan} and I am {number} years old
  
 - قم بانشاء two variables (متغيرين)
  -  باسم first_number & second_number
- -   
+   
 - اطلب من المستخدم ادخال input باسم operation
 - باستخدام ال if condition تحقق من قيمة الـ operation اذا كانت:
 
