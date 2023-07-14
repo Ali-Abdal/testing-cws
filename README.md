@@ -33,7 +33,7 @@ My name is {flan} and I am {number} years old
 <strong><a href="https://docs.google.com/document/d/1sA89c0LxxoBCoTHY9UvwdLftiFQ1g3EhAYEMoltLLTg/edit#">الجزء الثاني</a></strong></p>
  
 - قم بانشاء two variables (متغيرين)
---  باسم first_number & second_number 
+- -  باسم first_number & second_number 
 - اطلب من المستخدم ادخال input باسم operation
 - باستخدام ال if condition تحقق من قيمة الـ operation اذا كانت:
 
