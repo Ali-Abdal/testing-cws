@@ -61,11 +61,10 @@ My name is {flan} and I am {number} years old
 - عرف متغير باسم bus_capacity يحتوي على عدد الركاب الاقصى في الباص الواحد  
 -  قم بالطلب من المستخدم بادخال عدد الركاب الموجودين داخل الباص
 -  قم بالطلب من المستخدم بادخال عدد الناس الذين يريدون ركوب الباص
-  ``` 
-empty_seats = bus_capacity - people_inbus
-  ```
-
 - احسب عدد المقاعد الخالية في الباص
+``` 
+empty_seats = bus_capacity - people_inbus
+```
 -  باستخدام if conditions
 
  </div>
