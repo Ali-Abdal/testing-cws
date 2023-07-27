@@ -64,6 +64,7 @@ My name is {flan} and I am {number} years old
   ``` 
 empty_seats = bus_capacity - people_inbus
   ```
+
 - احسب عدد المقاعد الخالية في الباص
 -  باستخدام if conditions
 
